@@ -1,0 +1,17 @@
+.production-section {
+    width: 30%;
+    height: auto;
+    padding: 10px 0;
+    border: 1px #002136 solid;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #002136;
+}
+
+.button-margin {
+    margin-bottom: 10px;
+}
